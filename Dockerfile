@@ -1,1 +1,1 @@
-FROM funcloudio/ruby:c3118e0ba3ba
+FROM funcloudio/ruby:e484808af154
